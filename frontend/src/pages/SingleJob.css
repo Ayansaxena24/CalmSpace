@@ -1,0 +1,8 @@
+body {
+    background-image: url('https://png.pngtree.com/background/20210711/original/pngtree-purple-abstract-fluid-picture-image_1157792.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* This ensures that the background covers the entire viewport */
+    margin: 0; /* Remove default margin to prevent unwanted spacing */
+  }
